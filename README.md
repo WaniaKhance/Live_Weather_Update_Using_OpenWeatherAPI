@@ -1,7 +1,5 @@
-# Live_Weather_Update_Using_OpenWeatherAPI
-
 # UK Live Weather Update using OpenWeatherAPI 
-## Publish and Subscribe Method
+## Publish and Subscribe Method - Intelligent Systems and Robotics
 
 * Introduction
   ------------
