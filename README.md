@@ -4,7 +4,12 @@
 * Introduction
   ------------
 
-In this project, we described a system design which provides users an access to check current weather update of any city locating in UK using OpenWeatherAPI. To get current weather information, we are performing API Call to https://openweathermap.org/current using an API key. We have developed this system in ROS using publisher & subscribe method where:
+In this project, we described a system design which provides users an access to check current weather update of any city locating in UK using OpenWeatherAPI. To get current weather information, we are performing API Call to https://openweathermap.org/current using an API key. 
+
+* Python Files Description
+  ------------
+
+We have developed this system in ROS using publisher & subscribe method where:
 
 1. Weather_pub.py: a publisher node where user will be asked to enter the name of the city to get its weather update which will be published on a topic named as “Weather”.
 
