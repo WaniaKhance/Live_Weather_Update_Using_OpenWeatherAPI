@@ -45,6 +45,6 @@ To run the given python codes, we will perform following steps:
 8. Type rostopic echo /topic_name to see messages published to a topic.
 9. Enter the name of the city and all the weather information will be published on their respective topics as shown below:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/WaniaKhance/Live_Weather_Update_Using_OpenWeatherAPI/blob/main/Picture1.png?raw=true)
 
 
